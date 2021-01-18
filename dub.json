@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"gtk-d:gtkd": "~>3.8.0"
+	},
+	"name": "framepump"
+}
